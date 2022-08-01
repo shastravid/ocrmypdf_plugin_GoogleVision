@@ -9,6 +9,6 @@ https://cloud.google.com/vision/docs/before-you-begin
 Also borrowed some code from https://github.com/dinosauria123/gcv2hocr. Thanks a lot for your work.
 
 1. copy all files to a directory
-2. get the cloudkey ans safe it as cloudkey.json
+2. get the cloudkey and save it as cloudkey.json
 3. pip3 install google-cloud-vision
 4. call ocrmypdf from the currect diretory with --plugin gvision.py
